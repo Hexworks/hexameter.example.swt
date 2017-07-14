@@ -51,6 +51,6 @@ repositories {
 }
 
 dependencies {
-    compile("org.codetome:hexameter-core:3.0.0")
+    compile("org.codetome.hexameter:hexameter.core:2017.1.0")
     compile("org.eclipse.swt:org.eclipse.swt.win32.win32.x86_64:4.3")
 }
